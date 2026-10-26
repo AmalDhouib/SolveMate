@@ -9,6 +9,10 @@ Pour chaque e-mail, il :
 4. répond au client **ou** transmet le dossier à un opérateur humain (escalade) ;
 5. met à jour le ticket et la mémoire du client.
 
+## Architecture
+
+![Architecture de SolveMate](docs/architecture_solvemate.png)
+
 ## Organisation du projet
 
 ```
