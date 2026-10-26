@@ -1,0 +1,23 @@
+# LLM (Gemini, offre gratuite)
+google-genai>=1.20
+
+# Base de données PostgreSQL
+psycopg[binary]>=3.2
+
+# Configuration
+python-dotenv>=1.0
+
+# E-mail entrant (IMAP) et conversion HTML -> texte
+imap-tools>=1.7
+beautifulsoup4>=4.12
+
+# RAG local
+sentence-transformers>=3.0
+qdrant-client>=1.12
+pypdf>=5.0
+
+# Validation de la décision JSON
+pydantic>=2.6
+
+# Tests
+pytest>=8.0

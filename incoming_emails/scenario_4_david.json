@@ -1,0 +1,5 @@
+{
+  "sender": "david.moreau@example.com",
+  "subject": "Paiement de ma facture",
+  "body": "Bonjour,\nJ'ai payé hier ma facture, mais mon espace client indique toujours qu'elle n'est pas réglée. Est-ce normal ?\nDavid Moreau"
+}
